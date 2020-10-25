@@ -9,7 +9,7 @@ body {
         
   }
   .taj{
-    background-image: url("trans.png");
+    background-image: url("trans-1.png");
            
     background-repeat: no-repeat;
     background-position: 0% 100%;
@@ -139,7 +139,7 @@ body {
     }
     100% {
       margin-top: 70px;
-      margin-left: 22%;
+      margin-left: 29%;
     }
   }
   @keyframes plane {
@@ -158,7 +158,7 @@ body {
     }
     100% {
       margin-top: 70px;
-      margin-left: 22%;
+      margin-left: 29;
     }
   }
   @-webkit-keyframes body {
